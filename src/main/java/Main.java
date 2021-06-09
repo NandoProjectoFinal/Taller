@@ -1,3 +1,8 @@
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
@@ -65,6 +70,7 @@ public class Main {
     }
 
     private static void mostrarDatos() {
+
 
     }
 }
